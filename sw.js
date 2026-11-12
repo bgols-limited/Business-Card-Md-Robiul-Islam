@@ -3,7 +3,7 @@
 // Cache names carry this card's own prefix: two cards share the bgols-limited.github.io origin,
 // so each card must only ever delete its own old caches.
 const PREFIX = "robiul-card-";
-const VERSION = PREFIX + "v9";
+const VERSION = PREFIX + "v10";
 const CORE = [
   "./", "index.html", "card.html", "nfc-setup.html", "email-signature.html", "css/styles.css", "js/config.js", "js/app.js", "contact.vcf",
   "manifest.webmanifest",
