@@ -58,9 +58,9 @@ const lines = [
     esc("B&T Nehaleeya Tower, Level-7, Holding No. 80B, Kemal Ataturk Avenue, P.S. Banani"),
     esc("Dhaka"), "", esc("1213"), esc("Bangladesh")
   ].join(";"),
-  "item3.X-ABLabel:Dhaka Office",
+  "item3.X-ABLabel:Bangladesh Office (Dhaka)",
   "item4.ADR;TYPE=WORK:;;" + [
-    esc("Parabat Center, SK Mujib Road, Building-472 (3rd Floor), Chowmuhani, Agrabad"),
+    esc("SHR Tower, 2nd Floor, 320, Sheikh Mujib Road, Agrabad C/A"),
     esc("Chattogram"), "", esc("4100"), esc("Bangladesh")
   ].join(";"),
   "item4.X-ABLabel:Chattogram Office",
@@ -68,7 +68,7 @@ const lines = [
     esc("BG-EXPRESS (CAMBODIA) CO. LTD., Time Square-3, Floor-12F, Village-7, Street 335-317, Sangkat Boeng Kak, Ti Muy, Khan Toul Kork"),
     esc("Phnom Penh"), "", "", esc("Cambodia")
   ].join(";"),
-  "item5.X-ABLabel:Phnom Penh Office",
+  "item5.X-ABLabel:Cambodia Office (Phnom Penh)",
   "NOTE:" + esc("Managing Director, B-GOLS Limited. Chairman, BG Express Cambodia Co., Ltd. Committed to Deliver. WhatsApp and WeChat on both numbers (+8801335134461, +8801819129304). B-GOLS Limited AIN: 301-23-0580, BIN: 004695191-0101. Professional memberships: FMC-OTI (ID 034338) | WCA | JC Trans | GLA | IFC | BAFFA."),
   "PHOTO;ENCODING=b;TYPE=JPEG:" + photo,
   "END:VCARD"
