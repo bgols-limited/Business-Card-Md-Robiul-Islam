@@ -1,6 +1,6 @@
 # Md. Robiul Islam's card on iPhone: step-by-step guide
 
-Card address: **https://alshams8.github.io/Business-Card-Md-Robiul-Islam/**
+Card address: **https://bgols-limited.github.io/Business-Card-Md-Robiul-Islam/**
 (Keep the capital letters. The NFC tag, the QR code and the contact file all point here.)
 
 ## Quick answer: what works iPhone to iPhone
@@ -18,7 +18,7 @@ on iPhone means **NameDrop**, and "tap my card" means a cheap **NFC tag**.
 
 ## 1. Save the card and make it Mr. Robiul's own "My Card" (once, 3 minutes)
 
-1. On Mr. Robiul's iPhone, open **https://alshams8.github.io/Business-Card-Md-Robiul-Islam/** in Safari.
+1. On Mr. Robiul's iPhone, open **https://bgols-limited.github.io/Business-Card-Md-Robiul-Islam/** in Safari.
 2. Tap **Save Contact**, then **Create New Contact**, then **Done**.
 3. Open **Settings › Apps › Contacts › My Info** (on iOS 17: **Settings › Contacts › My Info**) and choose **Md. Robiul Islam**.
 4. Open the **Contacts** app, tap **My Card** at the top, then **Contact Photo & Poster** to set up the photo and poster other iPhones will see.
@@ -47,7 +47,7 @@ NameDrop sends only the name, chosen numbers or emails, and the Contact Poster. 
 1. Open the card in Safari, tap the **Share** button in Safari, then **Add to Home Screen**, then **Add**.
    The card now opens like an app, also offline.
 2. Optional, fastest: show the QR without unlocking menus.
-   - Open the **Shortcuts** app › **+** › **Add Action** › **Open URLs** › enter **https://alshams8.github.io/Business-Card-Md-Robiul-Islam/#qr** › name it "My QR".
+   - Open the **Shortcuts** app › **+** › **Add Action** › **Open URLs** › enter **https://bgols-limited.github.io/Business-Card-Md-Robiul-Islam/#qr** › name it "My QR".
    - Then **Settings › Accessibility › Touch › Back Tap › Double Tap** › choose **My QR**.
      Now a double tap on the back of the iPhone opens the card already flipped to the QR side.
    - iPhone 15 Pro or newer: you can put the same shortcut on the **Action button** instead
@@ -57,7 +57,7 @@ NameDrop sends only the name, chosen numbers or emails, and the Contact Poster. 
 
 1. Buy blank **NTAG215** cards or **NTAG213** stickers (any phone accessory shop or online).
 2. On the iPhone, install **NFC Tools** (by wakdev) from the App Store.
-3. In NFC Tools: **Write › Add a record › URL / URI** › paste **https://alshams8.github.io/Business-Card-Md-Robiul-Islam/** › **OK** › **Write**,
+3. In NFC Tools: **Write › Add a record › URL / URI** › paste **https://bgols-limited.github.io/Business-Card-Md-Robiul-Islam/** › **OK** › **Write**,
    then hold the **top edge** of the iPhone against the tag.
 4. Test: tap the tag with another phone. A banner appears; tap it to open the card.
 5. When it works, lock it: NFC Tools › **Other › Lock tag** (permanent).

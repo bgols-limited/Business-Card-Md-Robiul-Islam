@@ -3,7 +3,7 @@
 **TAP. CONNECT. SAVE. SHARE.**
 Managing Director | B-GOLS Limited · Chairman | BG Express Cambodia Co., Ltd.
 
-Live at **https://alshams8.github.io/Business-Card-Md-Robiul-Islam/** (GitHub Pages, branch `main`, folder `/`).
+Live at **https://bgols-limited.github.io/Business-Card-Md-Robiul-Islam/** (GitHub Pages, branch `main`, folder `/`).
 iPhone sharing (NameDrop, AirDrop, QR, NFC tag): see [`docs/IPHONE-GUIDE.md`](docs/IPHONE-GUIDE.md).
 
 A lightweight, installable web app (PWA) that works as a digital business card. One permanent
@@ -11,7 +11,7 @@ HTTPS address is shared four ways: an **NFC tag**, a **QR code**, a **link**, an
 **native share sheet**. Visitors can call, WhatsApp, WeChat, email, open the company website, get directions to the Dhaka, Chattogram and Phnom Penh offices and
 **save the contact (.vcf)**. No app, login, tracking or data collection.
 
-> Built from the same template as https://alshams8.github.io/digital-card/ .
+> Built from the same template as https://bgols-limited.github.io/digital-card/ .
 > `js/config.js` holds the address. After changing it, run `node scripts/build.mjs`.
 
 ---

@@ -11,7 +11,7 @@ Tested in headless Chromium with the iPhone 13 profile (390 × 844, touch) again
 | WhatsApp links `wa.me/8801335134461` and `wa.me/8801819129304` | Pass |
 | WeChat sheet (quick button and contact row) shows both numbers, each with Copy | Pass |
 | `#qr` opens the card on the QR side; plain address opens the front | Pass |
-| QR codes (SVG/PNG, printed card back, portrait card back) decode to `https://alshams8.github.io/Business-Card-Md-Robiul-Islam/` | Pass (zxing-cpp) |
+| QR codes (SVG/PNG, printed card back, portrait card back) decode to `https://bgols-limited.github.io/Business-Card-Md-Robiul-Islam/` | Pass (zxing-cpp) |
 | `contact.vcf`: vCard 3.0, CRLF, lines ≤ 75 octets, two mobile numbers, two emails, three labelled office addresses, embedded 256 px photo | Pass |
 | card.html, nfc-setup.html, email-signature.html, manifest, sw.js load | Pass |
 

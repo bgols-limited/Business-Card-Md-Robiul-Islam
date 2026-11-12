@@ -5,10 +5,10 @@ The card is a folder of static files. Any HTTPS static host works. The address y
 
 ## Option 1: GitHub Pages (free, fastest)
 
-1. Public repository on GitHub: `alshams8/Business-Card-Md-Robiul-Islam`.
+1. Public repository on GitHub: `bgols-limited/Business-Card-Md-Robiul-Islam`.
 2. Upload the contents of this folder (or `git push`). `node_modules/` is not needed.
 3. Repository → **Settings → Pages** → Source: *Deploy from a branch* → Branch `main`, folder `/ (root)` → Save.
-4. After ~1 minute the site is at `https://alshams8.github.io/Business-Card-Md-Robiul-Islam/`, the address
+4. After ~1 minute the site is at `https://bgols-limited.github.io/Business-Card-Md-Robiul-Islam/`, the address
    already in `js/config.js`, so nothing needs regenerating.
 5. Tick **Enforce HTTPS** (on by default for `github.io`).
 
@@ -26,7 +26,7 @@ It needs B-GOLS IT (whoever manages the `bgols.com` DNS):
 
 1. Host the folder on any of the options above, inside a sub-folder `robiul/`
    (e.g. repository `card`, files in `robiul/`).
-2. DNS: add a **CNAME** record `card` → `alshams8.github.io` (GitHub) or the Netlify/Cloudflare target.
+2. DNS: add a **CNAME** record `card` → `bgols-limited.github.io` (GitHub) or the Netlify/Cloudflare target.
 3. GitHub Pages: Settings → Pages → *Custom domain* `card.bgols.com` → wait for the certificate → *Enforce HTTPS*.
 4. Open `https://card.bgols.com/robiul/` in a browser and check the padlock **before** writing tags.
 5. Set `PROFILE_URL` to `https://card.bgols.com/robiul/`, run the build, redeploy.
