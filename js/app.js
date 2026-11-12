@@ -126,6 +126,7 @@
   }
   $("#copyBtn").addEventListener("click", function () { copyText(PROFILE_URL, "Profile link copied"); });
   $("#copyNumBtn").addEventListener("click", function () { copyText("+8801335134461", "Mobile number copied"); });
+  $("#copyNum2Btn").addEventListener("click", function () { copyText("+8801819129304", "Mobile number copied"); });
 
   // ---------- save contact feedback ----------
   $$('a[href="contact.vcf"]').forEach(function (a) {

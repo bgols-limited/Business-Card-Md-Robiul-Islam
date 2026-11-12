@@ -69,7 +69,7 @@ const lines = [
     esc("Phnom Penh"), "", "", esc("Cambodia")
   ].join(";"),
   "item5.X-ABLabel:Phnom Penh Office",
-  "NOTE:" + esc("Managing Director, B-GOLS Limited. Chairman, BG Express Cambodia Co., Ltd. Committed to Deliver. WhatsApp and WeChat on +8801335134461. B-GOLS Limited AIN: 301-23-0580, BIN: 004695191-0101. Professional memberships: FMC-OTI (ID 034338) | WCA | JC Trans | GLA | IFC | BAFFA."),
+  "NOTE:" + esc("Managing Director, B-GOLS Limited. Chairman, BG Express Cambodia Co., Ltd. Committed to Deliver. WhatsApp and WeChat on both numbers (+8801335134461, +8801819129304). B-GOLS Limited AIN: 301-23-0580, BIN: 004695191-0101. Professional memberships: FMC-OTI (ID 034338) | WCA | JC Trans | GLA | IFC | BAFFA."),
   "PHOTO;ENCODING=b;TYPE=JPEG:" + photo,
   "END:VCARD"
 ];
